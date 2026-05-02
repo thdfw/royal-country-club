@@ -12,7 +12,7 @@ body {
 
 body {
   color: #fff;
-  background: #0a0a0a;
+  background: #fff;
 }
 
 .hero {
@@ -23,7 +23,7 @@ body {
   align-items: flex-end;
   padding: clamp(1.5rem, 4vw, 3rem) clamp(1.25rem, 5vw, 4rem)
     clamp(4rem, 14vh, 10rem);
-  background-color: #1a1510;
+  background-color: #fff;
   background-image: url("background.png");
   background-size: cover;
   background-position: center;
