@@ -148,6 +148,7 @@ body {
   }
 
   .hero__logo {
+    top: clamp(2.25rem, 8vw, 4.5rem);
     width: clamp(10.75rem, 58vw, 13.75rem);
   }
 }
